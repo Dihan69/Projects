@@ -1,0 +1,8 @@
+          Try to protect the data from external breach. Use the pulse regulators to       
+          eliminate breach.                                                               
+                                                                                          
+          The up, down, left and right pulse regulators can be opererated by W, S, A, D   
+          keys respectively.                                                              
+                                                                                          
+          Don't let too much data to get affected by the breach. Otherwise, the system    
+          will crash and all data will be lost.                                           

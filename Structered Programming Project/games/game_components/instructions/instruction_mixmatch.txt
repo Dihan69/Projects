@@ -1,0 +1,25 @@
+          You need to make every single piece of the target row & collum filled with same 
+          type of piece. You can choose any piece to make the pattern. But you have to do 
+          it within a certain number of moves.                                            
+                                                                                          
+          The '>' sign says which row you are on where 'v' shows which collum.  To change 
+          row number, you need to press up and down key while for collum, left and right  
+          key. Each of these action will be counted as a movement.                        
+                                                                                          
+          To switch from row to collum or collum to row, you need to press 'space' key.   
+          It won't be counted as a move.                                                  
+                                                                                          
+          To select a row or column you are currently on, you need to press 'enter'.      
+          It won't be counted as a move as well.                                          
+                                                                                          
+          Once a row is selected, you need to press left or right key to move every object
+          of the selected row to left and right respectively. Same goes to for column but 
+          with up and down key. It won't be counted as a move.                            
+                                                                                          
+          To deselect a selected row or collum, you need to press 'enter' again.          
+                                                                                          
+          Once matching is done, press 'enter' to deselect the row or collum and you will 
+          automatically be successful in that turn.                                       
+                                                                                          
+          You need to match the pattern as directed for a certain amount of time with     
+          reduced max movement in every turn to hack the security system.                 

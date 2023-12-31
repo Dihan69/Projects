@@ -1,0 +1,12 @@
+You have to defeat the snake by killing it. You have 5 lives to do so.                
+                                                                                      
+The snake will chase you continuously. But after a certain time it will stop to regain
+its strength. You can do better damage at that time. But at that time, brick pieces   
+might fall on you. There is a very little delay before the brick piece falls upon you.
+So, be careful.                                                                       
+                                                                                      
+To kill the snake, you have a gun which shoots six bullets at a time. If all the      
+bullets are used, you have to reload it.                                              
+                                                                                      
+Use arrow keys to move in four direction. Use WASD keys to shoot in four direction.   
+Use R key to reload the bullets.                                                      

@@ -1,0 +1,32 @@
+(alarm beeping)                                                                 
+                                                                                
+     SPECTRE                                                                    
+     Another emergency?                                                         
+                                                                                
+     RESEARCH HEAD                                                              
+     Let's go and check.                                                        
+                                                                                
+(research facility)                                                             
+                                                                                
+     RESEARCH HEAD                                                              
+     What happened?                                                             
+                                                                                
+     ASSISTANT RESEARCHER 1                                                     
+     The data we saved earlier from the external server is being breached       
+     by some malicious worm.                                                    
+                                                                                
+     SPECTRE                                                                    
+     A breach inside the residence server? That's odd.                          
+                                                                                
+     ASSISTANT RESEARCHER 2                                                     
+     We are uploading it to another server. But we need to block the breach     
+     to spread as much as possible.                                             
+                                                                                
+     SPECTRE                                                                    
+     Okay. Let me handle it. Start the upload.                                  
+                                                                                
+     ASSISTANT RESEARCHER 1                                                     
+     Hmmm. Uploading the mainframe and sending it to you.                       
+                                                                                
+     SPECTRE                                                                    
+     Hmmm. Let's see.                                                           

@@ -1,0 +1,11 @@
+          Try to contain the ball inside the boundary using the slidebars. Don't let it   
+          hit the boundary, otherwise, it will cause the system to breakdown.             
+                                                                                          
+          The upper and lower bar are connected and you can move them using left or right 
+          key in the same direction.                                                      
+                                                                                          
+          Again, the right and left bar are also connected and they can be moved by       
+          up or down key altogether.                                                      
+                                                                                          
+          From this point, you can access the in-game menu by pressing ESCAPE button while
+          inside any game. There you can view the game instructions again.                

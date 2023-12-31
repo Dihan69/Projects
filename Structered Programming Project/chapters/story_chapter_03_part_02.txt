@@ -1,0 +1,21 @@
+     ASSISTANT RESEARCHER 2                                                         
+     Backup complete. Drive removed.                                                
+                                                                                    
+     ASSISTANT RESEARCHER 1                                                         
+     The breach almost destroyed the data. Some data were lost in the process but we
+     can handle the damage.                                                         
+                                                                                    
+     SPECTRE                                                                        
+     Hmmm. But isn't it unusual?                                                    
+                                                                                    
+     RESEARCH HEAD                                                                  
+     Hmmm. Sure, an unusual incident. We'll look into the matter. Inform the        
+     security experts to reroll the mainframe.                                      
+                                                                                    
+     ASSISTANT RESEARCHER 1                                                         
+     Okay. I'll notify them.                                                        
+                                                                                    
+Generally no one can access the residence server from outside. It is not connected  
+with any other external network as well. Until someone does it from inside.         
+                                                                                    
+Maybe I need to look into the matter.                                               

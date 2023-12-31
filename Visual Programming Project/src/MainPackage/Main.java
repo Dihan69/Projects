@@ -14,7 +14,7 @@ public class Main {
         JFrame window = new JFrame();
         window.setDefaultCloseOperation((JFrame.EXIT_ON_CLOSE));
         window.setResizable((false));
-        window.setTitle("DYNAMIC DUO: BATTLE OF UNSEEN");  //our window name
+        window.setTitle("LEGEND OF THERIAN");  //our window name
 
 
         GamePanel gamePanel= new GamePanel();

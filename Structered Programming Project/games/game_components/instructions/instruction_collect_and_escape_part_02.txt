@@ -1,0 +1,5 @@
+          Avoid getting hit by the falling bricks.                                        
+                                                                                          
+          Getting hit won't have any immediate effect but it will have consequence later. 
+                                                                                          
+          You can only move left or right using left or right arrow key.                  

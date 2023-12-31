@@ -1,0 +1,11 @@
+> You have to collect data from the database pcs from the given number of locations on the   
+  upper-left corner of screen and get through the exit door to complete the game.            
+> On the way, you will face enemies, detectors, traps, cameras and lots of crossroads. Try   
+  not to step on enemy view or detector line. Stepping on them will decrease your life count 
+  and you will be identified but, there will be given a small time to get away from the spot 
+  to not get identified twice. Once the life count comes to zero, it will result in game over
+> To turn off the cameras, you need to interact with control room pc. To open particular     
+  database room door, you need to interact with security room pc. To collect data from       
+  database pc, you need to interact with it.                                                 
+> Use arrow keys to move the player in all directions. Use SPACE key to interact with or     
+  access anything.                                                                           

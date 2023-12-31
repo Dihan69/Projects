@@ -1,0 +1,2 @@
+game current level = 1
+game played = 0 times

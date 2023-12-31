@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gunspace" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Gunspace" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Gunspace" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="game/game.hpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Enemy3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Enemy_Bullet3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Enemy_Type_1_3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Enemy_Type_4.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Environment3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Player3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Player_Bullet3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Player_Flying3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/Player_Movement3.cpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Door.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Enemy3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Enemy_Bullet3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Enemy_Type_1_3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Enemy_Type_4.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Environment3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/GameLogic3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Machine_Shooter.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Player3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Player_Bullet3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Player_Flying3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Player_Movement3.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/Trap.h" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/utility/console_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/utility/device_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/utility/menu_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_abdullah/src/include/utility/screen_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Enemy.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Enemy_Type_1.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Enemy_Type_2.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Enemy_bullet.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Environment1.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Player.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Player_Bullet.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Player_Flying.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Player_Movement.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/Trap.cpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Door.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Enemy.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Enemy_Type_1.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Enemy_Type_2.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Enemy_bullet.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Environment1.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/GameLogic.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Machine_Shooter.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Player.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Player_Bullet.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Player_Flying.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Player_Movement.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/Trap.h" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/utility/console_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/utility/device_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/utility/menu_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_dihan/src/include/utility/screen_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Door.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Enemy_type_0.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Environment2.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Machine_Shooter.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Movable_box.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Player2.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Player_Bullet2.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Player_Flying2.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/Player_Movement2.cpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Door.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Enemy_type_0.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Environment2.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/GameLogic2.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Machine_Shooter.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Movable_box.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Player.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Player2.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Player_Bullet2.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Player_Flying2.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/Player_Movement2.h" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/utility/console_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/utility/device_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/utility/menu_utility.hpp" />
+		<Unit filename="game/game_logics/game_logic_ifti/src/include/utility/screen_utility.hpp" />
+		<Unit filename="game/menu.hpp" />
+		<Unit filename="game/utility/background_utility.hpp" />
+		<Unit filename="game/utility/console_utility.hpp" />
+		<Unit filename="game/utility/device_utility.hpp" />
+		<Unit filename="game/utility/draw_utility.hpp" />
+		<Unit filename="game/utility/screen_utility.hpp" />
+		<Unit filename="game/utility/time_utility.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,10 @@
+          You need to travel across the areas in orderly manner given as a target on      
+          the screen.                                                                     
+                                                                                          
+          You cannot cross your travelled path twice.                                     
+                                                                                          
+          If you are stuck, press 'space' to start over the journey.                      
+                                                                                          
+          You can move in 4 direction with arrow keys respectively.                       
+                                                                                          
+          Also, try to avoid the glitroid swarm in it's way.                              

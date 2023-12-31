@@ -1,0 +1,39 @@
+(alarm beeping)                                                                 
+                                                                                
+     SPECTRE                                                                    
+     Something's wrong. The environment is glitching.                           
+                                                                                
+     RESEARCH HEAD                                                              
+     What happened? Did the link break?                                         
+                                                                                
+     NHAQ                                                                       
+     No. There is a security breach. Check the security system immediately.     
+                                                                                
+     IT EXPERT                                                                  
+     On it.                                                                     
+                                                                                
+     NHAQ                                                                       
+     Main system has been compromised. But no sign of harm yet. Wait a minute...
+                                                                                
+     IT EXPERT                                                                  
+     The security system is malfunctioning.                                     
+                                                                                
+     NHAQ                                                                       
+     It's a virus. It seems like an advanced variant of pingpong virus and it is
+     trying to break the link.                                                  
+                                                                                
+     SPECTRE                                                                    
+     Looks like it entered through the loop hole.                               
+                                                                                
+     NHAQ                                                                       
+     We have to reboot the security system immediately.                         
+                                                                                
+     SPECTRE                                                                    
+     Connect me with the control panel. I'll try to block the virus from        
+     spreading. In the meantime, reboot the security system.                    
+                                                                                
+     NHAQ                                                                       
+     Okay. Connected. You have to handle the rest.                              
+                                                                                
+     SPECTRE                                                                    
+     Hmmm. Leave it on me.                                                      

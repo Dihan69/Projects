@@ -1,0 +1,18 @@
+You have break all the gate-links on the map. But beware of the glitroids that are  
+spawn from the gate-links. Glitroids can spawn anywhere in a certain radius from a  
+particular gate-link. You can kill the glitroids by shooting then but it will       
+require you shooting them continuously for a certain amount of time.                
+                                                                                    
+There is an health bar on the upper-right corner of the screen. Your health will    
+decrease if you are very close to a glitroid.                                       
+                                                                                    
+By going near the gate-links and pressing SPACE, you can initiate gate-link break.  
+You have to press SPACE key for a certain amount of time until a pop-up status bar  
+becomes full to completely break gate-links. Once a gate-link is broken it will     
+disappear from the map along with enemies around a certain radius of the gate-link. 
+                                                                                    
+On the mini-map, player is marked as 'P', glitroids are marked as 'E' and gate-links
+are marked as 'G'. There is also given the direction you are facing currently.      
+                                                                                    
+Use arrow keys to move in all directions. Use AD key to rotate camera. Use F key to 
+shoot. Use SPACE key to initiate gate-link break.                                   

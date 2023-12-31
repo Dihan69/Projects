@@ -1,0 +1,37 @@
+At the headquarters (research facility),                                          
+                                                                                  
+     SPECTRE                                                                      
+     (talking through communication panel) Spectre reporting. All divisions clear!
+                                                                                  
+     RESEARCH HEAD                                                                
+     Well done everyone. This is a huge achievement.                              
+                                                                                  
+     ASSISTANT RESEARCHER 1                                                       
+     We're calling the transports back.                                           
+                                                                                  
+     SPECTRE                                                                      
+     (talking through communication panel) Okay.                                  
+                                                                                  
+     ASSISTANT RESEARCHER 2                                                       
+     (talking through communication panel) Transport team. Respond transport team.
+                                                                                  
+     ASSISTANT RESEARCHER 1                                                       
+     What happened?                                                               
+                                                                                  
+     ASSISTANT RESEARCHER 2                                                       
+     The transport isn't responding. No feedback from the other side.             
+                                                                                  
+     ASSISTANT RESEARCHER 1                                                       
+     Is the network stable? Check the network protocol.                           
+                                                                                  
+     IT EXPERT                                                                    
+     On it.                                                                       
+                                                                                  
+     RESEARCH HEAD                                                                
+     Try to connect with them as soon as possible.                                
+                                                                                  
+     IT EXPERT                                                                    
+     The connection is breached remotely. From inside the network.                
+                                                                                  
+     ASSISTANT RESEARCHER 1                                                       
+     Oh, no!                                                                      

@@ -1,0 +1,8 @@
+          Escape towards the end of the roads.                                            
+                                                                                          
+          You can't stop. But you can go up, down, left & right using arrow keys.         
+                                                                                          
+          Getting hit from the sides or behind is not problem but don't get hit upfront.  
+                                                                                          
+          A suggestion - You need to go downwards to cross sharp corner without getting   
+          hit.                                                                            

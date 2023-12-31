@@ -1,0 +1,35 @@
+The other day, residence server was compromised by a breach which is unusual. 
+The security team didn't find any trace of meddling with the system. It is    
+speculated that the bug might have entered while storing the data from the    
+external server and resided inside the system without causing any harm for a  
+long time until it attacked. Also, it was probably hiding in the guise of     
+residential data making it hard to determine it's presence.                   
+                                                                              
+But that is just an assumption. I need to check.                              
+                                                                              
+At the headquarters (staff area),                                             
+                                                                              
+     SPECTRE                                                                  
+     NHAQ, did you find anything about the last incident?                     
+                                                                              
+     NHAQ                                                                     
+     No. As the security experts already checked, I didn't look into it       
+     that much.                                                               
+                                                                              
+     SPECTRE                                                                  
+     Did anything look unusual?                                               
+                                                                              
+     NHAQ                                                                     
+     About that. The residence network is not usually accessed by any external
+     net. But a day before, it was connected with the STEM data serever. When 
+     I asked the experts, they said it was for security purpose and the bug   
+     was there way before that. But I'm not sure about that.                  
+                                                                              
+STEM data server is the controlling server residing underground of the        
+headquarters. The security experts usually handles that area.                 
+                                                                              
+     SPECTRE                                                                  
+     (intense look on face) Hmmm. I'll look into it.                          
+                                                                              
+     NHAQ                                                                     
+     Hmmm. You should. I think there is something more to it.                 

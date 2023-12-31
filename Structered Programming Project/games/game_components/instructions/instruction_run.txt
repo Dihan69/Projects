@@ -1,0 +1,5 @@
+You have to avoid getting hit with incoming object. You are provided with certain     
+amount of boost. Using boost will decrease available boost to zero in every use.      
+Available boost increases through time and once it is upto 75%, you can use it again. 
+                                                                                      
+Use W key/up arrow key to jump and D key/right arrow key to use boost.                

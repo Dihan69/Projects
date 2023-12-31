@@ -1,0 +1,13 @@
+          You have to dodge or destroy the spacecrafts coming towards you. Sometimes it   
+          becomes hard to dodge them.                                                     
+                                                                                          
+          To destroy a spacecraft, you need to destroy its core marked with C. But to     
+          reach the core, you need to destroy the outer guns first.                       
+                                                                                          
+          In most cases, inner guns can't be destroyed without destroying outer guns.     
+          There are 2 shooting modes, with 'F' and 'Space'. 'Space' will shoot 2 bullets  
+          at a time and 'F' will shoot 1. There is a charge which denotes the shooting    
+          power.                                                                          
+                                                                                          
+          If it gets fully emptied, you won't be able to shoot for a while until it fully 
+          recharges. You can go up, down, right, left with arrow keys.                    
